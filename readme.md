@@ -11,7 +11,7 @@ https://discord.me/laravel
 
 ### Contributing
 
-Head over to our Discord server and drop a message on server #collaboration if you wish to contribute to our website.
+Head over to our Discord server and drop a message on #collaboration channel if you wish to contribute to our website.
 
 
 ### License
