@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>LaraCommunity</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -69,7 +69,7 @@
             @if (Route::has('login'))
                 <div class="top-right links">
                     @auth
-                        <a href="{{ url('/home') }}">Home</a>
+                        <a href="{{ url('/home') }}">laracommunity.com</a>
                     @else
                         <a href="{{ route('login') }}">Login</a>
                         <a href="{{ route('register') }}">Register</a>
@@ -84,9 +84,9 @@
                 <h1>Just Laravel and chill</h1>
 
                 <div class="links">
-                    <a href="http://laracommunity.com/">Home</a>
+                    <a href="http://laracommunity.com/">LaraCommunity.com</a>
                     <a href="https://discordapp.com/laravel" target="_blank">Discord</a>
-                    <a href="#">Our Statistics</a>
+                    <a href="#">Statistics</a>
                 </div>
             </div>
         </div>

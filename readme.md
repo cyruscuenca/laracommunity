@@ -1,3 +1,5 @@
+<p align="center"><img src="https://imgur.com/j9zbjuq"></p>
+
 ## LaraCommunity
 
 ### Discord Channel
