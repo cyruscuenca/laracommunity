@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/j9zbjuq"></p>
+<p align="center"><img src="https://i.imgur.com/j9zbjuq.png"></p>
 
 ## LaraCommunity
 
